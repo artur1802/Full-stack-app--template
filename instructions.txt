@@ -1,0 +1,5 @@
+// dotenv allows me to hide specific stuffs 
+// cors helps me by pass error that thas cors
+// mongodb is our data base, where we store our data, we need a data base 
+// ejs help us dinamicly generate html base on the data we are passing on the server and the sintax is similar at html
+// nodemon reiniciate the server every time we make a change in our code 
